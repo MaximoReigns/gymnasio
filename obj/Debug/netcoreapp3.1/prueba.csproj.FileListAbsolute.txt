@@ -1,0 +1,13 @@
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba.deps.json
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba.runtimeconfig.json
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba.runtimeconfig.dev.json
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba.dll
+/home/maxcode/workspace/csharp/prueba/bin/Debug/netcoreapp3.1/prueba.pdb
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.csprojAssemblyReference.cache
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.AssemblyInfoInputs.cache
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.AssemblyInfo.cs
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.csproj.CoreCompileInputs.cache
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.dll
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.pdb
+/home/maxcode/workspace/csharp/prueba/obj/Debug/netcoreapp3.1/prueba.genruntimeconfig.cache

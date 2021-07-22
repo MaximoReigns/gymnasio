@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/maxcode/.dotnet/store/|arch|/|tfm|",
+      "/home/maxcode/.nuget/packages"
+    ]
+  }
+}
